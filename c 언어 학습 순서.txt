@@ -1,0 +1,7 @@
+c.7 형변환과 a / b 중 둘중 하나 실수 -> 실수처럼 계산
+c.6 switch(case, default)
+c.5 반복문
+c.4 if문 활용과 double형 사용시 주의사항
+c.3 연산자와 2의 보수
+c.2 %o, %x, float, double, 자릿수 맞추기
+c.1 첫걸음
